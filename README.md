@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @funny-gamer-king.
+- 👋 Hi, I’m AcedGuy.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning godot.
 - 📫 contact me via scratch:
